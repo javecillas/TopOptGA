@@ -36,7 +36,8 @@ structural fuses using genetic algorithms
 	routines
 
 %% Steps
-The steps for using this routine are:
+Assuming your working directory is '/matlab', the steps for using this
+routine are:
 	1. Open the File 'TopOptGA.m'
 	2. Input the required information including:
 		2.1 General input, line 27 to 47
